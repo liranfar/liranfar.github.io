@@ -18,7 +18,7 @@ class Nav extends Component {
                             <Link to={process.env.PUBLIC_URL + '/about'}><li className={'col-1 col-s-12 ' + (selected === 'About' ? 'current' : '')}>About</li></Link>
                             <Link to={process.env.PUBLIC_URL + '/resume'}><li className={'col-1 col-s-12 ' + (selected === 'Resume' ? 'current' : '')}>Resume</li></Link>
                             {/*<Link to={process.env.PUBLIC_URL + '/services'}><li className={'col-1 col-s-12 ' + (selected === 'Services' ? 'current' : '')}>Services</li></Link>*/}
-                            <Link to={process.env.PUBLIC_URL + '/tech'}><li className={'col-1 col-s-12 ' + (selected === 'Tech' ? 'current' : '')}>Technologies</li></Link>
+                            <Link to={process.env.PUBLIC_URL + '/tech'}><li className={'col-1 col-s-12 ' + (selected === 'Tech' ? 'current' : '')}>Tech</li></Link>
                             <Link to={process.env.PUBLIC_URL + '/contact'}><li className={'col-1 col-s-12 ' + (selected === 'Contact' ? 'current' : '')}>Contact</li></Link>
                         </ul>
                     </div>

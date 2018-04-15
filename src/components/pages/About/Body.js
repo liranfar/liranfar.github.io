@@ -16,15 +16,15 @@ class AboutBody extends Component {
                         <p>
                             My name is Liran, I'm 28 years old and I was born and raised in Israel.
                             From very young age I remember myself thinking about what is really happening on that box
-                            called computer alongside the huge screen that placed on home.
+                            called computer alongside the huge screen that are placed on home.
                             My curiosity on one hand pissed off my parents due to a slight tendency to corrupt things
                             but on the other hand,
                             allowed me to reveal a complex and powerful world. It was a long and though way from that
                             period. My professional way started from Computer
                             Science studies in high-school combined with <b> IT (A+) & networks (CCNA) </b>
                             certifications on behalf of Neta Project.
-                            As I ended high-school, I was recruited to the Israel's army ( IDF ) as a <b>squad commander
-                            and warrior</b> in Kfir brigade for 3 years.
+                            As I ended high-school, I was recruited to the Israel's army ( IDF ) as a <b>combat commander </b>
+                            in Kfir brigade for 3 years.
                             There, I took a "short break" from the competitive restless real-world reality right into
                             The <b>"Melting Pot"</b> of collaboration, comradeship, responsibility, discipline and many
                             other values under one mission,
